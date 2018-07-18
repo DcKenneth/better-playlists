@@ -3,7 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 let deafaultTextColor = '#fff';
-
+let deafaultStyle = {
+  color
 class Aggregate extends Component {
   render () {
     return (
